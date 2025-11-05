@@ -23,6 +23,10 @@ Users should be able to:
 
 ![](/assets/images/blog-preview-card-screenshot.png)
 
+### Links
+
+-   Live Site URL: https://golz29.github.io/blog-preview-card/
+
 ### Built with
 
 -   Semantic HTML5 markup
